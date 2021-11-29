@@ -34,13 +34,17 @@ The most challenging part of this project was the manual categorization of the g
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The most common month to launch campaigns is May and the months that follow. The least common month to launch a campaign is December. This is most likely explained by the 67% success rate for campaigns that launch in May, which compares favorably to the 49% success rate for campaigns launched in the busy holiday season in December.
 
 - What can you conclude about the Outcomes based on Goals?
+
 Broadly speaking, the larger the goal, the less likely the project will be to succeed.  The results are somewhat obscured because of the categorizations used to bucket the goals.  Had all goals over 15000 been collapsed into a single category, the results would have been more apparent. Given that there were so few observations in the higher categories, there is a lot of noise.
 
 - What are some limitations of this dataset?
+
 The single biggest limitation of the dataset are the underlying drivers of the results.  We don't know who they contacted, how they contacted them, what they offered or pitched as part of the campaign etc.
 
 - What are some other possible tables and/or graphs that we could create?
+
 I think it would be interesting to look at length of the campaigns, categorize the markets for the campaigns below the country level into market type, and possibly look at the impact of economic or demographic information. 
